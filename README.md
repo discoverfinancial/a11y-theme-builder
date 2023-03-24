@@ -21,7 +21,7 @@ Visit the [project docs](https://discoverfinancial.github.io/a11y-theme-builder)
 ### Using the Application
 Learn how to [install and use](../GETTING_STARTED.md) the Accessibility Theme Builder Application.
 ### Using the SDK
-Learn how to [work with](https://github.com/discoverfinancial/a11y-theme-builder-sdk) the Accessibility Theme Builder SDK.
+Learn how to work with the [Accessibility Theme Builder SDK](https://github.com/discoverfinancial/a11y-theme-builder-sdk#accessibility-theme-builder-sdk).
 
 ## Contributing 
 
