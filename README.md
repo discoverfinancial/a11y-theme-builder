@@ -16,21 +16,3 @@ Adhering to an [Atomic Accessibility Design Methodology](https://finos.github.io
 1. publish physical and digital solutions
 2. generate reusable design components that are leveraged to build physical and digital solutions
 
-## Getting Started
-
-### Theme Builder Capabilities
-Visit the [project docs](https://finos.github.io/a11y-theme-builder). 
-
-### Using the Application
-Learn how to [install and use](https://github.com/finos/a11y-theme-builder/blob/main/DEV_GUIDE.md) the Accessibility Theme Builder Application.
-### Using the SDK
-Learn how to [work with](https://github.com/finos/a11y-theme-builder-sdk) the Accessibility Theme Builder SDK.
-
-## Contributing 
-[Get involved](https://github.com/finos/a11y-theme-builder/blob/main/CONTRIBUTE.md)! Our project welcomes passionate contributors.  
-
-## License
-
-Copyright 2023 Discover Financial Services 
-
-Distributed under the [MIT License](./LICENSE).
